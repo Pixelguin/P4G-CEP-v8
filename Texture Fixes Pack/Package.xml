@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Texture Fixes Pack</name>
+  <id>texturefixespack</id>
+  <author>rudiger__gb</author>
+  <version>1.5</version>
+  <link>https://gamebanana.com/mods/9659</link>
+  <description>A collection of fixes and improvements for character and object textures.
+
+The new textures are more accurate to the characters' portraits as well as later P4 titles such as Dancing All Night.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

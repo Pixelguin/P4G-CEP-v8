@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Delicate Music Tweaks</name>
+  <id>pixelguin.delicatemusictweaks</id>
+  <author>Pixelguin, rudiger__gb</author>
+  <version>5.0</version>
+  <link>https://gamebanana.com/sounds/49693</link>
+  <description>A small collection of faithful music enhancements for Persona 4 Golden.
+
+Each change is carefully considered, justified, and tested before being added to the collection, making it suitable for both first-timers and longtime fans.
+ 
+For a list of changes and explanations, visit https://docs.google.com/document/d/1VPda-tPrKipcLlP0AXuVeGVkxkOxP8gPN36w5_4jUCY/view</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

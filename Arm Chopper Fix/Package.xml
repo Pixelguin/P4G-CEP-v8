@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Arm Chopper Fix</name>
+  <id>rudiger__gb.armchopperfix</id>
+  <author>rudiger__gb</author>
+  <version>1.0</version>
+  <link>https://gamebanana.com/mods/356424</link>
+  <description>Fixes an error in the description of the Arm Chopper physical Skill.
+
+Arm Chopper hits 2x, but this information was mistakenly left out of the description. This mod adds it back.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

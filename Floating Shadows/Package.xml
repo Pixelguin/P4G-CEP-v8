@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Floating Shadows</name>
+  <id>pioziomgames.floatingshadows(grayversion)</id>
+  <author>Pioziomgames</author>
+  <version>1.0</version>
+  <link>https://gamebanana.com/mods/356480</link>
+  <description>Replaces the model for strong Shadows in dungeons with the floating type used in the original Persona 4, recolored to match P4G's style.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>

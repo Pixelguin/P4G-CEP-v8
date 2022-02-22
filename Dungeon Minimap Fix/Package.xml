@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Dungeon Minimap Fix</name>
+  <id>pixelguin.dungeonminimapfix</id>
+  <author>Pixelguin</author>
+  <version>1.3.1</version>
+  <link>https://gamebanana.com/mods/34015</link>
+  <description>Fixes the incorrect positioning of the minimap background. 
+
+The checkerboard pattern has also been removed to improve clarity.</description>
+  <skippedVersion>all</skippedVersion>
+</Metadata>
