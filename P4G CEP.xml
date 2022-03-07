@@ -82,10 +82,10 @@
       <link>https://gamebanana.com/mods/250286</link>
     </Package>
     <Package>
-      <name>Clean Title Bar - Persona 4 Golden</name>
-      <path>Clean Title Bar - Persona 4 Golden</path>
+      <name>Clean Title Bar</name>
+      <path>Clean Title Bar</path>
       <enabled>true</enabled>
-      <id>pixelguin.cleantitlebar_golden</id>
+      <id>pixelguin.cleantitlebar</id>
       <hidden>false</hidden>
       <link>https://gamebanana.com/mods/50905</link>
     </Package>
@@ -504,14 +504,6 @@
       <id>gellyfish.cookingcheatsheet</id>
       <hidden>false</hidden>
       <link>https://gamebanana.com/mods/33983</link>
-    </Package>
-    <Package>
-      <name>[empty package]</name>
-      <path>Clean Title Bar (old)</path>
-      <enabled>false</enabled>
-      <id>pixelguin.cleantitlebar</id>
-      <hidden>false</hidden>
-      <link />
     </Package>
   </packages>
   <showHiddenPackages>true</showHiddenPackages>
