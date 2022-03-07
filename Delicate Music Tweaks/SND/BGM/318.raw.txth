@@ -1,7 +1,0 @@
-num_samples = 6050816
-codec = MSADPCM
-channels = 2
-sample_rate = 44100
-interleave = 140
-loop_start_sample = 606336
-loop_end_sample = 6050816
