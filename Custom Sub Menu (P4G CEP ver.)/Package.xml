@@ -3,7 +3,7 @@
   <name>Custom Sub Menu (P4G CEP ver.)</name>
   <id>tekka.customsubmenu</id>
   <author>AnimatedSwine37, ShrineFox, Sierrai17, rudiger__gb, Tekka, Tupelov</author>
-  <version>1.22</version>
+  <version>1.23</version>
   <link>https://github.com/AnimatedSwine37/Persona-4-Golden-Mod-Menu/tree/CEP</link>
   <description>A large collection of quality-of-life mods which can be customized from the sub menu.
 
@@ -12,15 +12,15 @@ Mobile Calendar
 Dungeon Options
 Find a Friend
 Remove Lunchtime Invitations
-Game Over Skip
 Reap-Balanced Encounters
 Default Direct Commands
 Dungeon Text Fixes
 Scooter Ride Count
+Game Over Skip (disabled by default)
 Remove Events (disabled by default)
 
 To open the configuration window, open the sub menu and press the command menu button.
 
-Some mods have been removed from this version of Custom Sub Menu to improve cross-compatibility and reduce the risk of softlocks. Download the full version of the mod from the GameBanana link if you would like to use these features.</description>
+Some mods have been removed from this version of Custom Sub Menu to improve cross-compatibility and reduce the risk of softlocks. Download the full version of the mod from the GitHub link if you would like to use these features.</description>
   <skippedVersion>all</skippedVersion>
 </Metadata>

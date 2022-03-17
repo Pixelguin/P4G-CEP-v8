@@ -26,10 +26,10 @@
       <link />
     </Package>
     <Package>
-      <name>Title Screen Fix</name>
-      <path>Title Screen Fix</path>
+      <name>Title Screen Fix+</name>
+      <path>Title Screen Fix+</path>
       <enabled>true</enabled>
-      <id>lipsum.titlescreenfix</id>
+      <id>lipsum.titlescreenfix_modloaderenabled</id>
       <hidden>false</hidden>
       <link>https://gamebanana.com/mods/33990</link>
     </Package>
@@ -290,6 +290,14 @@
       <link>https://gamebanana.com/mods/34005</link>
     </Package>
     <Package>
+      <name>Improved Rise Dialogue Portraits</name>
+      <path>Improved Rise Dialogue Portraits</path>
+      <enabled>true</enabled>
+      <id>megacatyu.improvedsaturationforrise'snavigatorbustups</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/361724</link>
+    </Package>
+    <Package>
       <name>[   CONTROLLER   ]</name>
       <path>.CONTROLLER</path>
       <enabled>false</enabled>
@@ -467,7 +475,7 @@
     </Package>
     <Package>
       <name>Always Study Bonus</name>
-      <path>Fixed Knowledge Bonus (Studying)</path>
+      <path>Always Study Bonus</path>
       <enabled>false</enabled>
       <id>fixedknowledgebonus(studying)</id>
       <hidden>false</hidden>
@@ -510,6 +518,14 @@
       <path>Clean Title Bar (old)</path>
       <enabled>false</enabled>
       <id>pixelguin.cleantitlebar</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>[empty package]</name>
+      <path>Title Screen Fix (old)</path>
+      <enabled>false</enabled>
+      <id>lipsum.titlescreenfix</id>
       <hidden>false</hidden>
       <link />
     </Package>
