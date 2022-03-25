@@ -339,12 +339,12 @@ void f007_002_init_hook()
             }
 
             PLAY_SOUNDEFFECT( 7 );
-            NS_WAIT( 60 );
+            WAIT( 60 );
         }
         else if ( DATE_CHK( 4, 17 ) == 1 && BIT_CHK( 0 + 0x0400 + 0x0800 + 327 ) == 1 )
         {
             PLAY_SOUNDEFFECT( 7 );
-            NS_WAIT( 60 );
+            WAIT( 60 );
         }
 
         
@@ -382,19 +382,19 @@ void f007_002_init_hook()
         if ( DATE_CHK( 4, 17 ) == 1 && GET_TIME_OF_DAY() == 5 && BIT_CHK( 0 + 0x0400 + 0x0800 + 320 ) == 1 && BIT_CHK( 0 + 0x0400 + 0x0800 + 321 ) == 0 )
         {
             BIT_ON( 0 + 0x0400 + 0x0800 + 321 );
-            NS_WAIT( 15 );
+            WAIT( 15 );
             PLAY_SOUNDEFFECT( 172 );
             OPEN_MSG_WIN();
             MSG( MSG_1ST_NIGHTSTREET_MORO );
             CLOSE_MSG_WIN();
             PLAY_SOUNDEFFECT( 160 );
-            NS_WAIT( 60 );
+            WAIT( 60 );
             FLD_FUNCTION_0008( FLD_FUNCTION_0004( 0 ), 13, 1, 10, 1.00f );
-            NS_WAIT( 15 );
+            WAIT( 15 );
             PLAY_SOUNDEFFECT( 162 );
-            NS_WAIT( 15 );
+            WAIT( 15 );
             FLD_FUNCTION_0008( FLD_FUNCTION_0004( 0 ), 0, 1, 10, 1.00f );
-            NS_WAIT( 15 );
+            WAIT( 15 );
             OPEN_MSG_WIN();
             MSG( MSG_1ST_NIGHTSTREET_MORO2 );
             CLOSE_MSG_WIN();
@@ -454,7 +454,7 @@ void f007_002_init_hook()
                 if ( CHECK_TIME_SPAN( 4, 18, 3, 31 ) == 1 && BIT_CHK( 0 + 0x0400 + 671 ) == 0 && BIT_CHK( 0 + 0x0400 + 0x0800 + 2 ) == 0 && BIT_CHK( 0 + 0x0400 + 1726 ) == 0 && BIT_CHK( 0 + 0x0400 + 0x0800 + 415 ) == 0 )
                 {
                     BIT_ON( 0 + 0x0400 + 0x0800 + 415 );
-                    NS_WAIT( 30 );
+                    WAIT( 30 );
                     OPEN_MSG_WIN();
                     MSG( FIRST_GO_OUT_NIGHT );
                     CLOSE_MSG_WIN();
@@ -523,7 +523,7 @@ void check_kitchen_hook()
 			FADE_SYNC();
 			FLD_FUNCTION_0008( 10244, 3, 0, 0, 1.00f );
 			PLAY_SOUNDEFFECT( 724 );
-			NS_WAIT( 20 );
+			WAIT( 20 );
 			OPEN_MSG_WIN();
 			PLAY_SOUNDEFFECT(224);
 			MSG(REIZOU_EATING);
