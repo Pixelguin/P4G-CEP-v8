@@ -373,7 +373,7 @@
       <name>Colorful Skills+</name>
       <path>Colorful Skills+</path>
       <enabled>true</enabled>
-      <id>pixelguin.colorfulskills</id>
+      <id>pixelguin.colorfulskillsplus_p4g</id>
       <hidden>false</hidden>
       <link>https://gamebanana.com/mods/55650</link>
     </Package>
@@ -424,6 +424,14 @@
       <id>notvstatic</id>
       <hidden>false</hidden>
       <link>https://gamebanana.com/mods/50899</link>
+    </Package>
+    <Package>
+      <name>Gentle Fast Forward - Brown Noise</name>
+      <path>Gentle Fast Forward - Brown Noise</path>
+      <enabled>true</enabled>
+      <id>pixelguin.gentlefastforward_brownnoise</id>
+      <hidden>false</hidden>
+      <link>https://gamebanana.com/mods/369214</link>
     </Package>
     <Package>
       <name>Floating Shadows</name>
@@ -518,6 +526,14 @@
       <path>Clean Title Bar (old)</path>
       <enabled>false</enabled>
       <id>pixelguin.cleantitlebar</id>
+      <hidden>false</hidden>
+      <link />
+    </Package>
+    <Package>
+      <name>[empty package]</name>
+      <path>Colorful Skills+ (old)</path>
+      <enabled>false</enabled>
+      <id>pixelguin.colorfulskills</id>
       <hidden>false</hidden>
       <link />
     </Package>
